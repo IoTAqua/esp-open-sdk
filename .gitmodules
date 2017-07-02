@@ -1,14 +1,9 @@
 [submodule "crosstool-NG"]
 	path = crosstool-NG
-	url = https://github.com/jcmvbkbc/crosstool-NG
-	branch = xtensa-1.22.x
-[submodule "lx106-hal"]
-	path = lx106-hal
-	url = https://github.com/tommie/lx106-hal
+	url = https://github.com/IoTAqua/ESP-crosstool-NG.git
 [submodule "esptool"]
 	path = esptool
-	url = https://github.com/themadinventor/esptool
-[submodule "esp-open-lwip"]
-	path = esp-open-lwip
-	url = https://github.com/pfalcon/esp-open-lwip
-	branch = sdk-1.5.0-experimental
+	url = https://github.com/espressif/esptool.git
+[submodule "ESP8266_NONOS_SDK-git"]
+	path = ESP8266_NONOS_SDK-git
+	url = https://github.com/espressif/ESP8266_NONOS_SDK.git
